@@ -1,5 +1,5 @@
 // 版本信息
-pragma solidity ^0.4.0;
+pragma solidity ^0.8.0;
 
 
 // 类 也就是合约
